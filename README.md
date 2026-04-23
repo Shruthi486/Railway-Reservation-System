@@ -3,8 +3,6 @@
 ## 📌 Description
 This is a Java-based Railway Reservation System project. It allows users to book tickets, check seat availability, and manage passenger details. The project is designed using core Java concepts.
 
----
-
 ## 🚀 Features
 - Ticket booking system
 - Seat availability checking
@@ -12,15 +10,11 @@ This is a Java-based Railway Reservation System project. It allows users to book
 - Custom exception handling
 - Multithreading using synchronized classes
 
----
-
 ## 🛠 Technologies Used
 - Java
 - Object-Oriented Programming (OOP)
 - Exception Handling
 - Multithreading
-
----
 
 ## 📂 Project Structure
 src/
@@ -29,23 +23,16 @@ src/
 - RailwayException/
 - SynchronizedClass/
 
----
-
 ## ▶️ How to Run
-1. Open the project in Eclipse or any Java IDE
-2. Compile all Java files
-3. Run the main file:
-   RailwayBookingMain.java
-
----
+1. Open the project in Eclipse or any Java IDE  
+2. Compile all Java files  
+3. Run the main file: `RailwayBookingMain.java`
 
 ## 📖 Learning Outcomes
-- Learned OOP concepts in Java
-- Implemented exception handling
-- Used multithreading and synchronization
-- Built a real-world simulation project
-
----
+- Learned OOP concepts in Java  
+- Implemented exception handling  
+- Used multithreading and synchronization  
+- Built a real-world simulation project  
 
 ## 👩‍💻 Author
 Shruthi486
